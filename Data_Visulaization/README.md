@@ -13,3 +13,6 @@ Changes you have to made while using your own dataset:
 
 Some of the plot are shown below:
 ![Heatmap](https://github.com/Daksh-Singh/Kaggle_Microcourses/blob/master/Data_Visulaization/Heatmap.PNG)
+![2D_plot](https://github.com/Daksh-Singh/Kaggle_Microcourses/blob/master/Data_Visulaization/2D_plot.PNG)
+![Line_Chart](https://github.com/Daksh-Singh/Kaggle_Microcourses/blob/master/Data_Visulaization/Line_Chart.PNG)
+![Scatter_plot](https://github.com/Daksh-Singh/Kaggle_Microcourses/blob/master/Data_Visulaization/Scatterplot.PNG)
