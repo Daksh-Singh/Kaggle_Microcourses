@@ -12,6 +12,7 @@ Changes you have to made while using your own dataset:
 2.Rename the variables according to your need and understanding.
 
 Some of the plots are shown below:
+
 ![Heatmap](https://github.com/Daksh-Singh/Kaggle_Microcourses/blob/master/Data_Visulaization/Heatmap.PNG)
 ![2D_plot](https://github.com/Daksh-Singh/Kaggle_Microcourses/blob/master/Data_Visulaization/2D_plot.PNG)
 ![Scatter_plot](https://github.com/Daksh-Singh/Kaggle_Microcourses/blob/master/Data_Visulaization/Scatterplot.PNG)
