@@ -8,4 +8,4 @@ Changes you have to made while using your own dataset:
 
 2.Rename the variables according to your need and understanding.
 
-The project is done according to the database given at that time.
+The project is done according to the database given at that time
